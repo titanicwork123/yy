@@ -1,0 +1,6 @@
+token=NTA0MjcyMDg2MTUyMzgwNDI2.DrCpeQ.agqpVQd6n2uV-SNsuR05yEnpptg
+owner=454313323660312596
+prefix=O
+game=Type Ohelp
+stayinchannel=true
+songinstatus=true
